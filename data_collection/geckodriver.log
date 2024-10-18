@@ -1,0 +1,658 @@
+1729224941625	geckodriver	INFO	Listening on 127.0.0.1:58705
+1729224942416	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofilebDkkZp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729224942804	Marionette	INFO	Marionette enabled
+1729224943195	Marionette	INFO	Listening on port 58717
+1729224943387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-10-17 22:15:43.443 plugin-container[83976:606096] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:15:43.444 plugin-container[83976:606096] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:15:43.450 plugin-container[83976:606096] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:15:43.450 plugin-container[83976:606096] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:15:43.450 plugin-container[83976:606143] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:15:43.450 plugin-container[83976:606143] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 04:15:44.683 plugin-container[83990:606283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:15:44.683 plugin-container[83990:606283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:15:44.687 plugin-container[83990:606283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:15:44.687 plugin-container[83990:606283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:15:44.688 plugin-container[83990:606297] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:15:44.688 plugin-container[83990:606297] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%229ofXAV9hM1NUOU5ockJ5cnhGdXNtYW5OdjFOM0pmNGtYcVlLQzl1R2FTZFpIa3l3JTJCc2N4MUZ4RFVrMzglMkZEUFdzejBBZFdkbW5lWVR5ZFJnVVlZdCUyRk5LSXJnY3RabTVXb1JGVXlJRGx5b3pxMGZ0cWNmd0dxQ2kxMDFVbWY2d1N3empVUzgwRW5Ja2pJZW9kSSUyQm1wM1BTdzlKb0FkUHZ4ZiUyQkd0NlhSekl5ZkNUOTZTeWRNJTJCUlZkSUZNUGZZYVFlSGtQVWhqQlRQdEZDcUZsSGN5Vm9MNkVvOUdBJTNEJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%229ofXAV9hM1NUOU5ockJ5cnhGdXNtYW5OdjFOM0pmNGtYcVlLQzl1R2FTZFpIa3l3JTJCc2N4MUZ4RFVrMzglMkZEUFdzejBBZFdkbW5lWVR5ZFJnVVlZdCUyRk5LSXJnY3RabTVXb1JGVXlJRGx5b3pxMGZ0cWNmd0dxQ2kxMDFVbWY2d1N3empVUzgwRW5Ja2pJZW9kSSUyQm1wM1BTdzlKb0FkUHZ4ZiUyQkd0NlhSekl5ZkNUOTZTeWRNJTJCUlZkSUZNUGZZYVFlSGtQVWhqQlRQdEZDcUZsSGN5Vm9MNkVvOUdBJTNEJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%229ofXAV9hM1NUOU5ockJ5cnhGdXNtYW5OdjFOM0pmNGtYcVlLQzl1R2FTZFpIa3l3JTJCc2N4MUZ4RFVrMzglMkZEUFdzejBBZFdkbW5lWVR5ZFJnVVlZdCUyRk5LSXJnY3RabTVXb1JGVXlJRGx5b3pxMGZ0cWNmd0dxQ2kxMDFVbWY2d1N3empVUzgwRW5Ja2pJZW9kSSUyQm1wM1BTdzlKb0FkUHZ4ZiUyQkd0NlhSekl5ZkNUOTZTeWRNJTJCUlZkSUZNUGZZYVFlSGtQVWhqQlRQdEZDcUZsSGN5Vm9MNkVvOUdBJTNEJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22yM3COF9hM1NUOU5ockJ5cnhGdXNtYW5OdjFHOFJVdkxHMk5yWU5aJTJCSVdPJTJCSDR4ZU55QVRCakJWSWV1SzNnejVRdjU4RldSd01jTVFoVGhiWmlqanJHVEtZdWc2ZmVpJTJGVHM2S0QzT21tWjBXMHVVMWFoODB5VFROJTJCY2lHZEVOWWlTRnpTcWpIRSUyQmlLMU43UmJ5MnZZUWZmMzVFMmZ4NFBkb25CRkVnaENuUk92aXc3ekNVY1NOJTJGSDVqNWtxdSUyRlFETkNReVpmT3F6UURSVGJyJTJGOGxiWjJSNmZwZyUzRCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22yM3COF9hM1NUOU5ockJ5cnhGdXNtYW5OdjFHOFJVdkxHMk5yWU5aJTJCSVdPJTJCSDR4ZU55QVRCakJWSWV1SzNnejVRdjU4RldSd01jTVFoVGhiWmlqanJHVEtZdWc2ZmVpJTJGVHM2S0QzT21tWjBXMHVVMWFoODB5VFROJTJCY2lHZEVOWWlTRnpTcWpIRSUyQmlLMU43UmJ5MnZZUWZmMzVFMmZ4NFBkb25CRkVnaENuUk92aXc3ekNVY1NOJTJGSDVqNWtxdSUyRlFETkNReVpmT3F6UURSVGJyJTJGOGxiWjJSNmZwZyUzRCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22yM3COF9hM1NUOU5ockJ5cnhGdXNtYW5OdjFHOFJVdkxHMk5yWU5aJTJCSVdPJTJCSDR4ZU55QVRCakJWSWV1SzNnejVRdjU4RldSd01jTVFoVGhiWmlqanJHVEtZdWc2ZmVpJTJGVHM2S0QzT21tWjBXMHVVMWFoODB5VFROJTJCY2lHZEVOWWlTRnpTcWpIRSUyQmlLMU43UmJ5MnZZUWZmMzVFMmZ4NFBkb25CRkVnaENuUk92aXc3ekNVY1NOJTJGSDVqNWtxdSUyRlFETkNReVpmT3F6UURSVGJyJTJGOGxiWjJSNmZwZyUzRCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%223qLJhl9hM1NUOU5ockJ5cnhGdXNtYW5OdjFCVlZSVHVUVnVnbmxPNTMzcCUyRkU1aVZpNm9SRDlKcXNyT1FHY1UlMkZid2NXQVd2WVZrcXVZbVhLJTJCU1ByY3kwc1AyJTJCNVhZQVE1Q3JBeXJveiUyQkhhUHEza1RtbUtMMHE1c3BSdjFtaEhkNlRaZUp3WGpScTBOV2dEN29CVHJ2UEdrNWxnMXNleWt6T2hDSWRpNEIyYyUyRml5YnMlMkJ1ODlnWFBiQlcxY2JVdDVIdDIxTmh5SzFMZ28zQ3FhTEtVZmpWVlNqSkElM0QlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%223qLJhl9hM1NUOU5ockJ5cnhGdXNtYW5OdjFCVlZSVHVUVnVnbmxPNTMzcCUyRkU1aVZpNm9SRDlKcXNyT1FHY1UlMkZid2NXQVd2WVZrcXVZbVhLJTJCU1ByY3kwc1AyJTJCNVhZQVE1Q3JBeXJveiUyQkhhUHEza1RtbUtMMHE1c3BSdjFtaEhkNlRaZUp3WGpScTBOV2dEN29CVHJ2UEdrNWxnMXNleWt6T2hDSWRpNEIyYyUyRml5YnMlMkJ1ODlnWFBiQlcxY2JVdDVIdDIxTmh5SzFMZ28zQ3FhTEtVZmpWVlNqSkElM0QlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%223qLJhl9hM1NUOU5ockJ5cnhGdXNtYW5OdjFCVlZSVHVUVnVnbmxPNTMzcCUyRkU1aVZpNm9SRDlKcXNyT1FHY1UlMkZid2NXQVd2WVZrcXVZbVhLJTJCU1ByY3kwc1AyJTJCNVhZQVE1Q3JBeXJveiUyQkhhUHEza1RtbUtMMHE1c3BSdjFtaEhkNlRaZUp3WGpScTBOV2dEN29CVHJ2UEdrNWxnMXNleWt6T2hDSWRpNEIyYyUyRml5YnMlMkJ1ODlnWFBiQlcxY2JVdDVIdDIxTmh5SzFMZ28zQ3FhTEtVZmpWVlNqSkElM0QlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%223qLJhl9hM1NUOU5ockJ5cnhGdXNtYW5OdjFCVlZSVHVUVnVnbmxPNTMzcCUyRkU1aVZpNm9SRDlKcXNyT1FHY1UlMkZid2NXQVd2WVZrcXVZbVhLJTJCU1ByY3kwc1AyJTJCNVhZQVE1Q3JBeXJveiUyQkhhUHEza1RtbUtMMHE1c3BSdjFtaEhkNlRaZUp3WGpScTBOV2dEN29CVHJ2UEdrNWxnMXNleWt6T2hDSWRpNEIyYyUyRml5YnMlMkJ1ODlnWFBiQlcxY2JVdDVIdDIxTmh5SzFMZ28zQ3FhTEtVZmpWVlNqSkElM0QlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1729224999421	Marionette	INFO	Stopped listening on port 58717
+1729225691137	geckodriver	INFO	Listening on 127.0.0.1:59945
+1729225692138	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofilePv4R2y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729225692532	Marionette	INFO	Marionette enabled
+1729225692942	Marionette	INFO	Listening on port 59956
+1729225693134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-10-17 22:28:13.367 plugin-container[86617:625826] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:28:13.368 plugin-container[86617:625826] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:28:13.374 plugin-container[86617:625826] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:28:13.374 plugin-container[86617:625826] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:28:13.374 plugin-container[86617:625830] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:28:13.375 plugin-container[86617:625830] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 04:28:14.347 plugin-container[86622:625992] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:28:14.347 plugin-container[86622:625992] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:28:14.351 plugin-container[86622:625992] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:28:14.351 plugin-container[86622:625992] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:28:14.351 plugin-container[86622:625994] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:28:14.351 plugin-container[86622:625994] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729225708975	Marionette	INFO	Stopped listening on port 59956
+1729225981429	geckodriver	INFO	Listening on 127.0.0.1:60472
+1729225982434	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileBbDWgX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729225982819	Marionette	INFO	Marionette enabled
+1729225983174	Marionette	INFO	Listening on port 60481
+1729225983366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-10-17 22:33:03.588 plugin-container[87623:633211] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:33:03.588 plugin-container[87623:633211] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:33:03.634 plugin-container[87623:633211] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:33:03.634 plugin-container[87623:633211] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:33:03.634 plugin-container[87623:633208] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:33:03.634 plugin-container[87623:633208] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 04:33:04.713 plugin-container[87631:633401] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:33:04.714 plugin-container[87631:633401] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:33:04.733 plugin-container[87631:633401] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:33:04.733 plugin-container[87631:633401] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:33:04.733 plugin-container[87631:633422] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:33:04.733 plugin-container[87631:633422] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729225995308	Marionette	INFO	Stopped listening on port 60481
+1729226015286	geckodriver	INFO	Listening on 127.0.0.1:60664
+1729226016296	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileBASU8G"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729226016660	Marionette	INFO	Marionette enabled
+1729226017014	Marionette	INFO	Listening on port 60671
+2024-10-17 22:33:37.120 plugin-container[87787:634893] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:33:37.120 plugin-container[87787:634893] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:33:37.124 plugin-container[87787:634893] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:33:37.124 plugin-container[87787:634893] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:33:37.125 plugin-container[87787:634912] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:33:37.125 plugin-container[87787:634912] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729226017218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 04:33:38.576 plugin-container[87798:635082] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:33:38.577 plugin-container[87798:635082] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:33:38.582 plugin-container[87798:635082] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:33:38.582 plugin-container[87798:635082] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:33:38.582 plugin-container[87798:635091] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:33:38.582 plugin-container[87798:635091] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22a5OZ619EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCb3o2JTJCbWVmOFQlMkZBRndUcUFJeGM4OXlKMlNzYyUyQll6RUUzZDF2azBCeHgwY3pYOHQ2bHlsJTJGeGs4Mlk3TGdTJTJCS0U4cEJuJTJCUDRlZnFxWDNmbWpXcHAxT2JRcElsT0t2cHIlMkJBQ1RnVHRJaUkxMHpSSkNGTTZmNjVNbGZrdTE0V0t2ZTJMcURHZmN2azRVamMwYTZZWlpqdWRWNElxd1dGWnVNcWYxWFdHUjR1emI2QWE0RWpUc1R5WDJuZU1OTWh6WUxuYnA1S05ET3FPbFNCenE5clQxRlZBJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22a5OZ619EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCb3o2JTJCbWVmOFQlMkZBRndUcUFJeGM4OXlKMlNzYyUyQll6RUUzZDF2azBCeHgwY3pYOHQ2bHlsJTJGeGs4Mlk3TGdTJTJCS0U4cEJuJTJCUDRlZnFxWDNmbWpXcHAxT2JRcElsT0t2cHIlMkJBQ1RnVHRJaUkxMHpSSkNGTTZmNjVNbGZrdTE0V0t2ZTJMcURHZmN2azRVamMwYTZZWlpqdWRWNElxd1dGWnVNcWYxWFdHUjR1emI2QWE0RWpUc1R5WDJuZU1OTWh6WUxuYnA1S05ET3FPbFNCenE5clQxRlZBJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22a5OZ619EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCb3o2JTJCbWVmOFQlMkZBRndUcUFJeGM4OXlKMlNzYyUyQll6RUUzZDF2azBCeHgwY3pYOHQ2bHlsJTJGeGs4Mlk3TGdTJTJCS0U4cEJuJTJCUDRlZnFxWDNmbWpXcHAxT2JRcElsT0t2cHIlMkJBQ1RnVHRJaUkxMHpSSkNGTTZmNjVNbGZrdTE0V0t2ZTJMcURHZmN2azRVamMwYTZZWlpqdWRWNElxd1dGWnVNcWYxWFdHUjR1emI2QWE0RWpUc1R5WDJuZU1OTWh6WUxuYnA1S05ET3FPbFNCenE5clQxRlZBJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%229mrfRV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCbjJQZ3ljSUVEaFRhUFhDemx3WUhZaVBveEdTeXp0M1Awa254Z1FJY3B6SSUyRk9YJTJCRmV0JTJGMVFiU3lrZDk0ZldmeG5sQnBNbkx0NnVud29PYUljOU5SazBmajZyVkglMkZOVXZvVWZoazB0NGtXbGhGTlA0NHNrUU9aV0JwaVBKdHM4NmNFNG55SmcxMzN0N3VmY0szZUdTRzkyZDJhY3hsZlhVVXJZa0daVkUlMkZhNmJYRlhIc3NVcmNUY05TdXd6bGkwJTJGODFHSkk0TzQlMkJIUUFuWnpOdFFFaDk4JTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%229mrfRV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCbjJQZ3ljSUVEaFRhUFhDemx3WUhZaVBveEdTeXp0M1Awa254Z1FJY3B6SSUyRk9YJTJCRmV0JTJGMVFiU3lrZDk0ZldmeG5sQnBNbkx0NnVud29PYUljOU5SazBmajZyVkglMkZOVXZvVWZoazB0NGtXbGhGTlA0NHNrUU9aV0JwaVBKdHM4NmNFNG55SmcxMzN0N3VmY0szZUdTRzkyZDJhY3hsZlhVVXJZa0daVkUlMkZhNmJYRlhIc3NVcmNUY05TdXd6bGkwJTJGODFHSkk0TzQlMkJIUUFuWnpOdFFFaDk4JTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%229mrfRV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCbjJQZ3ljSUVEaFRhUFhDemx3WUhZaVBveEdTeXp0M1Awa254Z1FJY3B6SSUyRk9YJTJCRmV0JTJGMVFiU3lrZDk0ZldmeG5sQnBNbkx0NnVud29PYUljOU5SazBmajZyVkglMkZOVXZvVWZoazB0NGtXbGhGTlA0NHNrUU9aV0JwaVBKdHM4NmNFNG55SmcxMzN0N3VmY0szZUdTRzkyZDJhY3hsZlhVVXJZa0daVkUlMkZhNmJYRlhIc3NVcmNUY05TdXd6bGkwJTJGODFHSkk0TzQlMkJIUUFuWnpOdFFFaDk4JTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22bv7t9F9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCdW4xeTEwMHo0cGgxMWEyRUNHN1Q0Y2lBeGJLMiUyQmsxVEdHVzVzbncwQjRPYiUyQm5DV3lZYVd3Y0ZNb1VPQlJReGhBZjVNejFQRWlOWmIlMkJacnpwTk9GbngzJTJGa0tYeUN5bUFZWUdtWUtHR0JXUDh4WUxYMzVUOXVPNzkzZW1rMUIxaUhvbk1jTGhRMjlScnlDU2pPJTJCSjhqSUd6bW1MZ0tZdTFkZlBFbjdrMFY3NUVKTmVlSlBkUFFnSUpleVdOUmVGUzJuJTJCT2V3OTJmWWtLVUt0ZTFNNlhCYyUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22bv7t9F9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCdW4xeTEwMHo0cGgxMWEyRUNHN1Q0Y2lBeGJLMiUyQmsxVEdHVzVzbncwQjRPYiUyQm5DV3lZYVd3Y0ZNb1VPQlJReGhBZjVNejFQRWlOWmIlMkJacnpwTk9GbngzJTJGa0tYeUN5bUFZWUdtWUtHR0JXUDh4WUxYMzVUOXVPNzkzZW1rMUIxaUhvbk1jTGhRMjlScnlDU2pPJTJCSjhqSUd6bW1MZ0tZdTFkZlBFbjdrMFY3NUVKTmVlSlBkUFFnSUpleVdOUmVGUzJuJTJCT2V3OTJmWWtLVUt0ZTFNNlhCYyUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22bv7t9F9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCdW4xeTEwMHo0cGgxMWEyRUNHN1Q0Y2lBeGJLMiUyQmsxVEdHVzVzbncwQjRPYiUyQm5DV3lZYVd3Y0ZNb1VPQlJReGhBZjVNejFQRWlOWmIlMkJacnpwTk9GbngzJTJGa0tYeUN5bUFZWUdtWUtHR0JXUDh4WUxYMzVUOXVPNzkzZW1rMUIxaUhvbk1jTGhRMjlScnlDU2pPJTJCSjhqSUd6bW1MZ0tZdTFkZlBFbjdrMFY3NUVKTmVlSlBkUFFnSUpleVdOUmVGUzJuJTJCT2V3OTJmWWtLVUt0ZTFNNlhCYyUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22ohBKzF9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCallWVFU2YTRLM0plbGJOOEhBaiUyQnhLcllPZkhJbU0lMkZkZHpwWUNjNjQyc2Raa3ZyN3JRdzIlMkY4YW5kdmdCa1UyNW82M3J0dE9xRSUyQk56b3FPMVhZMGElMkJoJTJCbkR4SlMlMkZMYXZYaWdZRiUyQnliUUhibCUyRnl3ajVSMzJNUVZWTEM3eUtQbThYRWdEQlozeTRQTTVSanJRb3lvZ3BjUkU2Zm1EeFVsNlglMkIlMkZta0clMkZtQXFsSVV2b1FNR3djWnl1bEFCRjlpRjZKa093YURQc21SenJtcUNZVTZxZTAzNCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22ohBKzF9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCallWVFU2YTRLM0plbGJOOEhBaiUyQnhLcllPZkhJbU0lMkZkZHpwWUNjNjQyc2Raa3ZyN3JRdzIlMkY4YW5kdmdCa1UyNW82M3J0dE9xRSUyQk56b3FPMVhZMGElMkJoJTJCbkR4SlMlMkZMYXZYaWdZRiUyQnliUUhibCUyRnl3ajVSMzJNUVZWTEM3eUtQbThYRWdEQlozeTRQTTVSanJRb3lvZ3BjUkU2Zm1EeFVsNlglMkIlMkZta0clMkZtQXFsSVV2b1FNR3djWnl1bEFCRjlpRjZKa093YURQc21SenJtcUNZVTZxZTAzNCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22ohBKzF9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCallWVFU2YTRLM0plbGJOOEhBaiUyQnhLcllPZkhJbU0lMkZkZHpwWUNjNjQyc2Raa3ZyN3JRdzIlMkY4YW5kdmdCa1UyNW82M3J0dE9xRSUyQk56b3FPMVhZMGElMkJoJTJCbkR4SlMlMkZMYXZYaWdZRiUyQnliUUhibCUyRnl3ajVSMzJNUVZWTEM3eUtQbThYRWdEQlozeTRQTTVSanJRb3lvZ3BjUkU2Zm1EeFVsNlglMkIlMkZta0clMkZtQXFsSVV2b1FNR3djWnl1bEFCRjlpRjZKa093YURQc21SenJtcUNZVTZxZTAzNCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22ohBKzF9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCallWVFU2YTRLM0plbGJOOEhBaiUyQnhLcllPZkhJbU0lMkZkZHpwWUNjNjQyc2Raa3ZyN3JRdzIlMkY4YW5kdmdCa1UyNW82M3J0dE9xRSUyQk56b3FPMVhZMGElMkJoJTJCbkR4SlMlMkZMYXZYaWdZRiUyQnliUUhibCUyRnl3ajVSMzJNUVZWTEM3eUtQbThYRWdEQlozeTRQTTVSanJRb3lvZ3BjUkU2Zm1EeFVsNlglMkIlMkZta0clMkZtQXFsSVV2b1FNR3djWnl1bEFCRjlpRjZKa093YURQc21SenJtcUNZVTZxZTAzNCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22M-4sn19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc3ZucWdYVG1vd0FJelZtalNvMklkOThORXJteEU0SkY2d0t2QkFxTDVhNTY0OU4lMkZIM0I3NTJ4S1Z2V1dDMkdYc054VGdGRG0lMkZ2TUZ5YVFjZjlDdkkwZXYwbDd5NnVtNyUyRmZNbTlkMlo0Z0xDU2RkM3FOcyUyQnhSSmVHZSUyQlluZDdJSHZZb0YwVnFuQTFZZ3lOcmd3clQ3YzViS3Y2RSUyRko4VFUxRCUyQkQ5amoxV2pRbjFQNHltRDhRU2lPdzdacEZmZ09WZnhDOEZUTXNnbTVuSkpYaiUyRk52ZVklM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22M-4sn19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc3ZucWdYVG1vd0FJelZtalNvMklkOThORXJteEU0SkY2d0t2QkFxTDVhNTY0OU4lMkZIM0I3NTJ4S1Z2V1dDMkdYc054VGdGRG0lMkZ2TUZ5YVFjZjlDdkkwZXYwbDd5NnVtNyUyRmZNbTlkMlo0Z0xDU2RkM3FOcyUyQnhSSmVHZSUyQlluZDdJSHZZb0YwVnFuQTFZZ3lOcmd3clQ3YzViS3Y2RSUyRko4VFUxRCUyQkQ5amoxV2pRbjFQNHltRDhRU2lPdzdacEZmZ09WZnhDOEZUTXNnbTVuSkpYaiUyRk52ZVklM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22M-4sn19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc3ZucWdYVG1vd0FJelZtalNvMklkOThORXJteEU0SkY2d0t2QkFxTDVhNTY0OU4lMkZIM0I3NTJ4S1Z2V1dDMkdYc054VGdGRG0lMkZ2TUZ5YVFjZjlDdkkwZXYwbDd5NnVtNyUyRmZNbTlkMlo0Z0xDU2RkM3FOcyUyQnhSSmVHZSUyQlluZDdJSHZZb0YwVnFuQTFZZ3lOcmd3clQ3YzViS3Y2RSUyRko4VFUxRCUyQkQ5amoxV2pRbjFQNHltRDhRU2lPdzdacEZmZ09WZnhDOEZUTXNnbTVuSkpYaiUyRk52ZVklM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22uxL6F19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCazE1T1lOMVlFem5JNVJjUVVOVVBWSjFUb0JyZERzWTglMkZ6blpBVVBRUyUyQlBtJTJCb3FqSlRXMGV6ZTFPcG9YeEE1eiUyQlhCU0pHdVBXQWNXZEg2MXJ1aUR1MlIwTVBRTXFldDNCJTJCT0Y3TW9HZnFKdWtFeWJoTjN2dE9ZJTJCMiUyRnclMkJTYWs3bjFFNVhGZWFiTlNKTlRadzZDYmMlMkZ2Qk9uTjRHZXZudGslMkJzJTJGYjM0RHhqOTExWWtGd3dzcUglMkZEOHdBVWV5OWlyMDBsRXlaM3RNTkVXM2EzbzVJcWJ3TSUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22uxL6F19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCazE1T1lOMVlFem5JNVJjUVVOVVBWSjFUb0JyZERzWTglMkZ6blpBVVBRUyUyQlBtJTJCb3FqSlRXMGV6ZTFPcG9YeEE1eiUyQlhCU0pHdVBXQWNXZEg2MXJ1aUR1MlIwTVBRTXFldDNCJTJCT0Y3TW9HZnFKdWtFeWJoTjN2dE9ZJTJCMiUyRnclMkJTYWs3bjFFNVhGZWFiTlNKTlRadzZDYmMlMkZ2Qk9uTjRHZXZudGslMkJzJTJGYjM0RHhqOTExWWtGd3dzcUglMkZEOHdBVWV5OWlyMDBsRXlaM3RNTkVXM2EzbzVJcWJ3TSUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22uxL6F19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCazE1T1lOMVlFem5JNVJjUVVOVVBWSjFUb0JyZERzWTglMkZ6blpBVVBRUyUyQlBtJTJCb3FqSlRXMGV6ZTFPcG9YeEE1eiUyQlhCU0pHdVBXQWNXZEg2MXJ1aUR1MlIwTVBRTXFldDNCJTJCT0Y3TW9HZnFKdWtFeWJoTjN2dE9ZJTJCMiUyRnclMkJTYWs3bjFFNVhGZWFiTlNKTlRadzZDYmMlMkZ2Qk9uTjRHZXZudGslMkJzJTJGYjM0RHhqOTExWWtGd3dzcUglMkZEOHdBVWV5OWlyMDBsRXlaM3RNTkVXM2EzbzVJcWJ3TSUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22uxL6F19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCazE1T1lOMVlFem5JNVJjUVVOVVBWSjFUb0JyZERzWTglMkZ6blpBVVBRUyUyQlBtJTJCb3FqSlRXMGV6ZTFPcG9YeEE1eiUyQlhCU0pHdVBXQWNXZEg2MXJ1aUR1MlIwTVBRTXFldDNCJTJCT0Y3TW9HZnFKdWtFeWJoTjN2dE9ZJTJCMiUyRnclMkJTYWs3bjFFNVhGZWFiTlNKTlRadzZDYmMlMkZ2Qk9uTjRHZXZudGslMkJzJTJGYjM0RHhqOTExWWtGd3dzcUglMkZEOHdBVWV5OWlyMDBsRXlaM3RNTkVXM2EzbzVJcWJ3TSUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22QK6l219EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc0liSXRUSWtDJTJCN3V1d2RuRUpkN3l6T3JBU3QwZ01qNlVrR0xxMXNjSnc1dCUyRlV5M1FpT2ZTdiUyQjA3U3AlMkZUNkRtblF4NjFHWHdRRUV4aSUyQjJJaldudWNPcGk5a2dIMjZjaU1CMW10TWR6OGE2a0FwSHNNdDJFUUo2YWNYUjB3Q3MzZkRIanQ2JTJCZ2g5Y28zTGdkRnNUTSUyQmJRTE00azZoc1dTaTFoc3MzaTk5UGo1UEZvWXZraTNuN1ZuQWFFRyUyRm1iaENGQllIT2F3MktGT1hkOFgwTndUVUklM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22QK6l219EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc0liSXRUSWtDJTJCN3V1d2RuRUpkN3l6T3JBU3QwZ01qNlVrR0xxMXNjSnc1dCUyRlV5M1FpT2ZTdiUyQjA3U3AlMkZUNkRtblF4NjFHWHdRRUV4aSUyQjJJaldudWNPcGk5a2dIMjZjaU1CMW10TWR6OGE2a0FwSHNNdDJFUUo2YWNYUjB3Q3MzZkRIanQ2JTJCZ2g5Y28zTGdkRnNUTSUyQmJRTE00azZoc1dTaTFoc3MzaTk5UGo1UEZvWXZraTNuN1ZuQWFFRyUyRm1iaENGQllIT2F3MktGT1hkOFgwTndUVUklM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22QK6l219EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc0liSXRUSWtDJTJCN3V1d2RuRUpkN3l6T3JBU3QwZ01qNlVrR0xxMXNjSnc1dCUyRlV5M1FpT2ZTdiUyQjA3U3AlMkZUNkRtblF4NjFHWHdRRUV4aSUyQjJJaldudWNPcGk5a2dIMjZjaU1CMW10TWR6OGE2a0FwSHNNdDJFUUo2YWNYUjB3Q3MzZkRIanQ2JTJCZ2g5Y28zTGdkRnNUTSUyQmJRTE00azZoc1dTaTFoc3MzaTk5UGo1UEZvWXZraTNuN1ZuQWFFRyUyRm1iaENGQllIT2F3MktGT1hkOFgwTndUVUklM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22-nkczV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCcDZlVXpMSHFxbTJMc1FETldHWExaYjFpdDM5dzNUeSUyQmFpVEIxTDljelZJS1BLT0V5SWdCbEN1UnU3UFhWMTBDUlJoaTR1OWkyWFlSRnZNZllUNkI0ZGYlMkJ4cVdlQVBRVWRueEpkUEtJdDVZUDNPNHhoc0dYJTJGN1JZcVVQUG1EJTJGczNoaW9vbyUyQm05RW5VJTJGUGQlMkJuJTJGN3FFY25xelBTUVhFQ1RUVHE4bm11bTlDS25lSVh0bDZyM0VFc1czNVRFbE9Cd2x4dEklMkJSaG1Xb0VvWnNQWU1mTTlwNCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22-nkczV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCcDZlVXpMSHFxbTJMc1FETldHWExaYjFpdDM5dzNUeSUyQmFpVEIxTDljelZJS1BLT0V5SWdCbEN1UnU3UFhWMTBDUlJoaTR1OWkyWFlSRnZNZllUNkI0ZGYlMkJ4cVdlQVBRVWRueEpkUEtJdDVZUDNPNHhoc0dYJTJGN1JZcVVQUG1EJTJGczNoaW9vbyUyQm05RW5VJTJGUGQlMkJuJTJGN3FFY25xelBTUVhFQ1RUVHE4bm11bTlDS25lSVh0bDZyM0VFc1czNVRFbE9Cd2x4dEklMkJSaG1Xb0VvWnNQWU1mTTlwNCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22-nkczV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCcDZlVXpMSHFxbTJMc1FETldHWExaYjFpdDM5dzNUeSUyQmFpVEIxTDljelZJS1BLT0V5SWdCbEN1UnU3UFhWMTBDUlJoaTR1OWkyWFlSRnZNZllUNkI0ZGYlMkJ4cVdlQVBRVWRueEpkUEtJdDVZUDNPNHhoc0dYJTJGN1JZcVVQUG1EJTJGczNoaW9vbyUyQm05RW5VJTJGUGQlMkJuJTJGN3FFY25xelBTUVhFQ1RUVHE4bm11bTlDS25lSVh0bDZyM0VFc1czNVRFbE9Cd2x4dEklMkJSaG1Xb0VvWnNQWU1mTTlwNCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22-nkczV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCcDZlVXpMSHFxbTJMc1FETldHWExaYjFpdDM5dzNUeSUyQmFpVEIxTDljelZJS1BLT0V5SWdCbEN1UnU3UFhWMTBDUlJoaTR1OWkyWFlSRnZNZllUNkI0ZGYlMkJ4cVdlQVBRVWRueEpkUEtJdDVZUDNPNHhoc0dYJTJGN1JZcVVQUG1EJTJGczNoaW9vbyUyQm05RW5VJTJGUGQlMkJuJTJGN3FFY25xelBTUVhFQ1RUVHE4bm11bTlDS25lSVh0bDZyM0VFc1czNVRFbE9Cd2x4dEklMkJSaG1Xb0VvWnNQWU1mTTlwNCUzRA%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%223t3Fo19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCbGJNOGI5SmkyYTA1QmhEeExONWNSQ0piNEVGRkFMSGY3MndTMXJZRXRxSW9EQVpOTnJudURVYlE0enRwU091ZTVaazE3THZxRmMzbW84S2lCbWg3YiUyQm5xaUR3b1RzYkh5U3YxRHlZd0NmRmtyeG1ZOTFyJTJGTGYyQlBtTUJCZUV6OVR5Y09kaG1vSUhld3NBUUxLWWowcGdIcGltSHZsRHhvWTV6aEhkTzclMkZrSXJpdFhlR3Y2dFNxdDVhTiUyRlU0b0tiYnYyMWFiVUV5SlROd2YzOE9LanZvJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%223t3Fo19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCbGJNOGI5SmkyYTA1QmhEeExONWNSQ0piNEVGRkFMSGY3MndTMXJZRXRxSW9EQVpOTnJudURVYlE0enRwU091ZTVaazE3THZxRmMzbW84S2lCbWg3YiUyQm5xaUR3b1RzYkh5U3YxRHlZd0NmRmtyeG1ZOTFyJTJGTGYyQlBtTUJCZUV6OVR5Y09kaG1vSUhld3NBUUxLWWowcGdIcGltSHZsRHhvWTV6aEhkTzclMkZrSXJpdFhlR3Y2dFNxdDVhTiUyRlU0b0tiYnYyMWFiVUV5SlROd2YzOE9LanZvJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%223t3Fo19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCbGJNOGI5SmkyYTA1QmhEeExONWNSQ0piNEVGRkFMSGY3MndTMXJZRXRxSW9EQVpOTnJudURVYlE0enRwU091ZTVaazE3THZxRmMzbW84S2lCbWg3YiUyQm5xaUR3b1RzYkh5U3YxRHlZd0NmRmtyeG1ZOTFyJTJGTGYyQlBtTUJCZUV6OVR5Y09kaG1vSUhld3NBUUxLWWowcGdIcGltSHZsRHhvWTV6aEhkTzclMkZrSXJpdFhlR3Y2dFNxdDVhTiUyRlU0b0tiYnYyMWFiVUV5SlROd2YzOE9LanZvJTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22M7nFGV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCb0FERzFQT1ZmRkIlMkJiJTJGQnN2SWhMUmd3UG9BSUttZUFuNW5kV0R1M3ZqdVJnYjZMcmQwdFlLMFhGNXI3JTJCJTJCMDRJQ1RNOWtvODNCWGZ3MkR3WVBpbWlCaW5naU1lZEtDdHljRTlpVEslMkIzY1A5VU1adG9zZE95N1hxWmFQU01vRUZ3TWR5RmVva2t0WlVUV0NtQkNYcEwlMkJKMGxBVGxoOXJHU0hmWiUyRnZOdGJTcENWZWR6RXU3MEpLSjNtblAxNkM3akF3ZzJpV0slMkJ0WmNreGJEcnRjMXBWNVElM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22M7nFGV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCb0FERzFQT1ZmRkIlMkJiJTJGQnN2SWhMUmd3UG9BSUttZUFuNW5kV0R1M3ZqdVJnYjZMcmQwdFlLMFhGNXI3JTJCJTJCMDRJQ1RNOWtvODNCWGZ3MkR3WVBpbWlCaW5naU1lZEtDdHljRTlpVEslMkIzY1A5VU1adG9zZE95N1hxWmFQU01vRUZ3TWR5RmVva2t0WlVUV0NtQkNYcEwlMkJKMGxBVGxoOXJHU0hmWiUyRnZOdGJTcENWZWR6RXU3MEpLSjNtblAxNkM3akF3ZzJpV0slMkJ0WmNreGJEcnRjMXBWNVElM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22M7nFGV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCb0FERzFQT1ZmRkIlMkJiJTJGQnN2SWhMUmd3UG9BSUttZUFuNW5kV0R1M3ZqdVJnYjZMcmQwdFlLMFhGNXI3JTJCJTJCMDRJQ1RNOWtvODNCWGZ3MkR3WVBpbWlCaW5naU1lZEtDdHljRTlpVEslMkIzY1A5VU1adG9zZE95N1hxWmFQU01vRUZ3TWR5RmVva2t0WlVUV0NtQkNYcEwlMkJKMGxBVGxoOXJHU0hmWiUyRnZOdGJTcENWZWR6RXU3MEpLSjNtblAxNkM3akF3ZzJpV0slMkJ0WmNreGJEcnRjMXBWNVElM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22M7nFGV9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCb0FERzFQT1ZmRkIlMkJiJTJGQnN2SWhMUmd3UG9BSUttZUFuNW5kV0R1M3ZqdVJnYjZMcmQwdFlLMFhGNXI3JTJCJTJCMDRJQ1RNOWtvODNCWGZ3MkR3WVBpbWlCaW5naU1lZEtDdHljRTlpVEslMkIzY1A5VU1adG9zZE95N1hxWmFQU01vRUZ3TWR5RmVva2t0WlVUV0NtQkNYcEwlMkJKMGxBVGxoOXJHU0hmWiUyRnZOdGJTcENWZWR6RXU3MEpLSjNtblAxNkM3akF3ZzJpV0slMkJ0WmNreGJEcnRjMXBWNVElM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22hdPM_V9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCa1glMkJsWU4lMkZ0TERIMTRUTXZuUmxJTUdPajhpWlVUWURjZHJMM3ZXV0MlMkJTbjNNajIxNm1RR3Q0MkNXdVN6aG03TEhVTzZqaFRZMGFzQ0g5RVMlMkJtQWlUa3V1RUZkNXIlMkJUZldjOVhiZmpKNG9vS0h1UkZ0dzd2eiUyQnVycGh5N2RGSWlFcHQyUUZQN3lMYkNFcW5UcnptR2JjSUd1RHlDdVIlMkZuRlV1Q3BsN29zSTF4JTJCWlpjY0p2ZVFORG5Mbkc5ZTgxVG1LWlVLUEhUYXdLcGY1azJGaWZtSGMlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22hdPM_V9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCa1glMkJsWU4lMkZ0TERIMTRUTXZuUmxJTUdPajhpWlVUWURjZHJMM3ZXV0MlMkJTbjNNajIxNm1RR3Q0MkNXdVN6aG03TEhVTzZqaFRZMGFzQ0g5RVMlMkJtQWlUa3V1RUZkNXIlMkJUZldjOVhiZmpKNG9vS0h1UkZ0dzd2eiUyQnVycGh5N2RGSWlFcHQyUUZQN3lMYkNFcW5UcnptR2JjSUd1RHlDdVIlMkZuRlV1Q3BsN29zSTF4JTJCWlpjY0p2ZVFORG5Mbkc5ZTgxVG1LWlVLUEhUYXdLcGY1azJGaWZtSGMlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22hdPM_V9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCa1glMkJsWU4lMkZ0TERIMTRUTXZuUmxJTUdPajhpWlVUWURjZHJMM3ZXV0MlMkJTbjNNajIxNm1RR3Q0MkNXdVN6aG03TEhVTzZqaFRZMGFzQ0g5RVMlMkJtQWlUa3V1RUZkNXIlMkJUZldjOVhiZmpKNG9vS0h1UkZ0dzd2eiUyQnVycGh5N2RGSWlFcHQyUUZQN3lMYkNFcW5UcnptR2JjSUd1RHlDdVIlMkZuRlV1Q3BsN29zSTF4JTJCWlpjY0p2ZVFORG5Mbkc5ZTgxVG1LWlVLUEhUYXdLcGY1azJGaWZtSGMlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22r0K7a19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCalhJbGp4VG1XbFNvdGFUNXZSTnNrVGxCcDM4OVZlZXJJNTI0eUM5OVBNaldMdm94Y1Z2MHJQU3ROeWVzSHVLOUhTMnFmNTBnQURCdGVLckpCUkxJTXBsemNMRk1Ha29sUzlYaDNnOWFTSE1PNEYzTmJ2VngxV2NkR0JVSGtrJTJGMnBEam5POEkwM0hqeERkcndxRWRZQ0poVDlkaHdTUXBRdGo1bkFNNjMxd01tbGFqdG14Uk5lcXBiZFNjNGpucnNlZ3BsYkdaa3M1ZXglMkJUOU5kRmhVeXMlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22r0K7a19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCalhJbGp4VG1XbFNvdGFUNXZSTnNrVGxCcDM4OVZlZXJJNTI0eUM5OVBNaldMdm94Y1Z2MHJQU3ROeWVzSHVLOUhTMnFmNTBnQURCdGVLckpCUkxJTXBsemNMRk1Ha29sUzlYaDNnOWFTSE1PNEYzTmJ2VngxV2NkR0JVSGtrJTJGMnBEam5POEkwM0hqeERkcndxRWRZQ0poVDlkaHdTUXBRdGo1bkFNNjMxd01tbGFqdG14Uk5lcXBiZFNjNGpucnNlZ3BsYkdaa3M1ZXglMkJUOU5kRmhVeXMlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22r0K7a19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCalhJbGp4VG1XbFNvdGFUNXZSTnNrVGxCcDM4OVZlZXJJNTI0eUM5OVBNaldMdm94Y1Z2MHJQU3ROeWVzSHVLOUhTMnFmNTBnQURCdGVLckpCUkxJTXBsemNMRk1Ha29sUzlYaDNnOWFTSE1PNEYzTmJ2VngxV2NkR0JVSGtrJTJGMnBEam5POEkwM0hqeERkcndxRWRZQ0poVDlkaHdTUXBRdGo1bkFNNjMxd01tbGFqdG14Uk5lcXBiZFNjNGpucnNlZ3BsYkdaa3M1ZXglMkJUOU5kRmhVeXMlM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22o9N0o19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc0NBeFVDN0llYzZIdEhLYnljR0pHZWZZWlVWeWMwWlhmVlJHMUF4QTRrSEtUcTkzMDh3Z2lqaEZZWlF4emZYT2tDeGNCelRBenV4djR6NTJkbEQlMkZrVVpUd251R2QxMlVONU1QWm9OcFFNaXFmbWhLZWIzY05YbURzcnBuMko2Q3lHckJyOFhGOW9aT2NyTHdQMlQxMGJ0dlk5Vm5Cd1VjV1dSWUNDek4zenN4TzBEZTJ5UU04RWdPZER2VHUxVDdvbzZjcXM5Y3FOMVlGVk1LQVolMkYzcE0lM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22o9N0o19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc0NBeFVDN0llYzZIdEhLYnljR0pHZWZZWlVWeWMwWlhmVlJHMUF4QTRrSEtUcTkzMDh3Z2lqaEZZWlF4emZYT2tDeGNCelRBenV4djR6NTJkbEQlMkZrVVpUd251R2QxMlVONU1QWm9OcFFNaXFmbWhLZWIzY05YbURzcnBuMko2Q3lHckJyOFhGOW9aT2NyTHdQMlQxMGJ0dlk5Vm5Cd1VjV1dSWUNDek4zenN4TzBEZTJ5UU04RWdPZER2VHUxVDdvbzZjcXM5Y3FOMVlGVk1LQVolMkYzcE0lM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22o9N0o19EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCc0NBeFVDN0llYzZIdEhLYnljR0pHZWZZWlVWeWMwWlhmVlJHMUF4QTRrSEtUcTkzMDh3Z2lqaEZZWlF4emZYT2tDeGNCelRBenV4djR6NTJkbEQlMkZrVVpUd251R2QxMlVONU1QWm9OcFFNaXFmbWhLZWIzY05YbURzcnBuMko2Q3lHckJyOFhGOW9aT2NyTHdQMlQxMGJ0dlk5Vm5Cd1VjV1dSWUNDek4zenN4TzBEZTJ5UU04RWdPZER2VHUxVDdvbzZjcXM5Y3FOMVlGVk1LQVolMkYzcE0lM0Q%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22hWXl2V9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCdUIwcVdldHJNJTJCZllGY3ZIdCUyRjBYQVRzaWhSRms0a09pQU1GZExFcWtxZ1NQdG9yQTZaOTBCbHZJeWtqVzZlVGlPNnJtJTJCbWRrTDNENHVJaHNoVEpkYWdzMm1uNkJFeTBqeXNIM010Z284NmlWRVVKdk16ZzByMDNseDl6a3Ywd1BZQm1BaXZ5cnVtUDRpZmhKUkYyOEtySDM1NFE3Slp1cnpyU214aWVUQTBsdDJiM3NMY1RKb0gzTnhEVzJFJTJCV3Z2TWx6dVUzUzRyb1FJTkhWVVZyOXE0JTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22hWXl2V9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCdUIwcVdldHJNJTJCZllGY3ZIdCUyRjBYQVRzaWhSRms0a09pQU1GZExFcWtxZ1NQdG9yQTZaOTBCbHZJeWtqVzZlVGlPNnJtJTJCbWRrTDNENHVJaHNoVEpkYWdzMm1uNkJFeTBqeXNIM010Z284NmlWRVVKdk16ZzByMDNseDl6a3Ywd1BZQm1BaXZ5cnVtUDRpZmhKUkYyOEtySDM1NFE3Slp1cnpyU214aWVUQTBsdDJiM3NMY1RKb0gzTnhEVzJFJTJCV3Z2TWx6dVUzUzRyb1FJTkhWVVZyOXE0JTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:3},%22value%22:%22hWXl2V9EWjNiVUQlMkZVeERvcGJrMG5zeVc5JTJCdUIwcVdldHJNJTJCZllGY3ZIdCUyRjBYQVRzaWhSRms0a09pQU1GZExFcWtxZ1NQdG9yQTZaOTBCbHZJeWtqVzZlVGlPNnJtJTJCbWRrTDNENHVJaHNoVEpkYWdzMm1uNkJFeTBqeXNIM010Z284NmlWRVVKdk16ZzByMDNseDl6a3Ywd1BZQm1BaXZ5cnVtUDRpZmhKUkYyOEtySDM1NFE3Slp1cnpyU214aWVUQTBsdDJiM3NMY1RKb0gzTnhEVzJFJTJCV3Z2TWx6dVUzUzRyb1FJTkhWVVZyOXE0JTNE%22},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1729226206223	Marionette	INFO	Stopped listening on port 60671
+1729226758218	geckodriver	INFO	Listening on 127.0.0.1:61979
+1729226759219	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofile3WmCAD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729226759596	Marionette	INFO	Marionette enabled
+1729226759951	Marionette	INFO	Listening on port 61986
+2024-10-17 22:46:00.113 plugin-container[90482:656207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:46:00.113 plugin-container[90482:656207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729226760137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-10-17 22:46:00.158 plugin-container[90482:656207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:46:00.158 plugin-container[90482:656207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:46:00.158 plugin-container[90482:656249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:46:00.158 plugin-container[90482:656249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 04:46:01.350 plugin-container[90490:656379] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:46:01.350 plugin-container[90490:656379] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:46:01.356 plugin-container[90490:656379] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:46:01.356 plugin-container[90490:656379] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:46:01.356 plugin-container[90490:656380] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:46:01.356 plugin-container[90490:656380] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.apartments.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22apartments.com%22,%22topUrl%22:%22www.apartments.com%22,%22version%22:%225_27_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1729226805462	Marionette	INFO	Stopped listening on port 61986
+1729227053256	geckodriver	INFO	Listening on 127.0.0.1:62484
+1729227054261	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofile0FCshz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729227054659	Marionette	INFO	Marionette enabled
+1729227055036	Marionette	INFO	Listening on port 62493
+2024-10-17 22:50:55.197 plugin-container[91523:664118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:50:55.197 plugin-container[91523:664118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:50:55.202 plugin-container[91523:664118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:50:55.202 plugin-container[91523:664118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:50:55.203 plugin-container[91523:664123] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:50:55.203 plugin-container[91523:664123] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729227055246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 04:50:56.576 plugin-container[91531:664285] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:50:56.576 plugin-container[91531:664285] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:50:56.579 plugin-container[91531:664285] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:50:56.579 plugin-container[91531:664285] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:50:56.580 plugin-container[91531:664284] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:50:56.580 plugin-container[91531:664284] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729227059220	Marionette	INFO	Stopped listening on port 62493
+1729227458642	geckodriver	INFO	Listening on 127.0.0.1:63020
+1729227459647	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileVWVevt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729227460033	Marionette	INFO	Marionette enabled
+1729227460389	Marionette	INFO	Listening on port 63027
+2024-10-17 22:57:40.532 plugin-container[92907:674578] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:57:40.532 plugin-container[92907:674578] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:57:40.537 plugin-container[92907:674578] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:57:40.537 plugin-container[92907:674578] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 22:57:40.537 plugin-container[92907:674582] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 22:57:40.537 plugin-container[92907:674582] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729227460578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 04:57:41.856 plugin-container[92911:674750] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:57:41.857 plugin-container[92911:674750] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:57:41.862 plugin-container[92911:674750] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:57:41.862 plugin-container[92911:674750] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 04:57:41.862 plugin-container[92911:674754] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 04:57:41.862 plugin-container[92911:674754] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729227467650	Marionette	INFO	Stopped listening on port 63027
+1729227622834	geckodriver	INFO	Listening on 127.0.0.1:63366
+1729227623836	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofilemuPTdG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729227624250	Marionette	INFO	Marionette enabled
+1729227624592	Marionette	INFO	Listening on port 63375
+2024-10-17 23:00:24.737 plugin-container[93484:679300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:00:24.738 plugin-container[93484:679300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:00:24.745 plugin-container[93484:679300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:00:24.745 plugin-container[93484:679300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:00:24.746 plugin-container[93484:679318] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:00:24.746 plugin-container[93484:679318] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729227624830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:00:26.238 plugin-container[93497:679493] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:00:26.238 plugin-container[93497:679493] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:00:26.241 plugin-container[93497:679493] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:00:26.241 plugin-container[93497:679493] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:00:26.242 plugin-container[93497:679530] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:00:26.242 plugin-container[93497:679530] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729227631411	Marionette	INFO	Stopped listening on port 63375
+1729227701440	geckodriver	INFO	Listening on 127.0.0.1:63616
+1729227702444	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileAWHc37"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729227702839	Marionette	INFO	Marionette enabled
+1729227703218	Marionette	INFO	Listening on port 63623
+2024-10-17 23:01:43.364 plugin-container[93785:681855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:01:43.365 plugin-container[93785:681855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:01:43.370 plugin-container[93785:681855] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:01:43.370 plugin-container[93785:681855] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:01:43.370 plugin-container[93785:681874] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:01:43.370 plugin-container[93785:681874] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729227703414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:01:44.742 plugin-container[93789:682035] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:01:44.742 plugin-container[93789:682035] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:01:44.749 plugin-container[93789:682035] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:01:44.749 plugin-container[93789:682035] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:01:44.749 plugin-container[93789:682039] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:01:44.749 plugin-container[93789:682039] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+Z/c.send@https://sc-static.net/scevent.min.js:2:4941
+Zo@https://sc-static.net/scevent.min.js:2:43413
+@https://sc-static.net/scevent.min.js:2:45854
+Z/c/s/<@https://sc-static.net/scevent.min.js:2:4779
+m@https://sc-static.net/scevent.min.js:2:2806
+s@https://sc-static.net/scevent.min.js:2:4757
+m@https://sc-static.net/scevent.min.js:2:2806
+Z/c.send@https://sc-static.net/scevent.min.js:2:5065
+Lt/</c/<@https://sc-static.net/scevent.min.js:2:6916
+m@https://sc-static.net/scevent.min.js:2:2806
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729227716784	Marionette	INFO	Stopped listening on port 63623
+1729227929992	geckodriver	INFO	Listening on 127.0.0.1:64055
+1729227930993	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileZaxEuH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729227931390	Marionette	INFO	Marionette enabled
+1729227931825	Marionette	INFO	Listening on port 64062
+2024-10-17 23:05:31.933 plugin-container[94597:688523] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:05:31.933 plugin-container[94597:688523] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:05:31.944 plugin-container[94597:688523] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:05:31.944 plugin-container[94597:688523] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:05:31.945 plugin-container[94597:688526] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:05:31.945 plugin-container[94597:688526] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729227932003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:05:33.287 plugin-container[94602:688692] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:05:33.287 plugin-container[94602:688692] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:05:33.292 plugin-container[94602:688692] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:05:33.292 plugin-container[94602:688692] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:05:33.294 plugin-container[94602:688713] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:05:33.294 plugin-container[94602:688713] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729227937430	Marionette	INFO	Stopped listening on port 64062
+1729228213524	geckodriver	INFO	Listening on 127.0.0.1:64469
+1729228214521	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofile8M28lp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729228214907	Marionette	INFO	Marionette enabled
+1729228215283	Marionette	INFO	Listening on port 64476
+2024-10-17 23:10:15.387 plugin-container[95572:696104] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:10:15.387 plugin-container[95572:696104] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:10:15.392 plugin-container[95572:696104] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:10:15.392 plugin-container[95572:696104] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:10:15.392 plugin-container[95572:696118] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:10:15.392 plugin-container[95572:696118] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228215489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:10:16.901 plugin-container[95580:696293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:10:16.902 plugin-container[95580:696293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:10:16.927 plugin-container[95580:696293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:10:16.927 plugin-container[95580:696293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:10:16.928 plugin-container[95580:696307] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:10:16.928 plugin-container[95580:696307] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228219743	Marionette	INFO	Stopped listening on port 64476
+1729228358644	geckodriver	INFO	Listening on 127.0.0.1:64760
+1729228359651	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileugtWj6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729228360028	Marionette	INFO	Marionette enabled
+1729228360419	Marionette	INFO	Listening on port 64767
+1729228360616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-10-17 23:12:40.625 plugin-container[96105:700338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:12:40.626 plugin-container[96105:700338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:12:40.631 plugin-container[96105:700338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:12:40.631 plugin-container[96105:700338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:12:40.632 plugin-container[96105:700351] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:12:40.632 plugin-container[96105:700351] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:12:41.883 plugin-container[96117:700535] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:12:41.883 plugin-container[96117:700535] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:12:41.887 plugin-container[96117:700535] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:12:41.888 plugin-container[96117:700535] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:12:41.888 plugin-container[96117:700533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:12:41.888 plugin-container[96117:700533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228365798	Marionette	INFO	Stopped listening on port 64767
+1729228667668	geckodriver	INFO	Listening on 127.0.0.1:65244
+1729228668672	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofilepYlpcg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729228669059	Marionette	INFO	Marionette enabled
+1729228669436	Marionette	INFO	Listening on port 65253
+2024-10-17 23:17:49.596 plugin-container[97160:708451] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:17:49.597 plugin-container[97160:708451] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228669628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-10-17 23:17:49.703 plugin-container[97160:708451] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:17:49.703 plugin-container[97160:708451] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:17:49.703 plugin-container[97160:708474] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:17:49.703 plugin-container[97160:708474] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:17:50.995 plugin-container[97167:708622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:17:50.996 plugin-container[97167:708622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:17:51.001 plugin-container[97167:708622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:17:51.001 plugin-container[97167:708622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:17:51.001 plugin-container[97167:708621] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:17:51.001 plugin-container[97167:708621] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228676164	Marionette	INFO	Stopped listening on port 65253
+1729228786134	geckodriver	INFO	Listening on 127.0.0.1:65508
+1729228787134	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileuGTX6i"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729228787510	Marionette	INFO	Marionette enabled
+1729228787873	Marionette	INFO	Listening on port 65517
+2024-10-17 23:19:48.043 plugin-container[97582:711819] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:19:48.043 plugin-container[97582:711819] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228788069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-10-17 23:19:48.090 plugin-container[97582:711819] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:19:48.090 plugin-container[97582:711819] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:19:48.091 plugin-container[97582:711824] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:19:48.091 plugin-container[97582:711824] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:19:49.397 plugin-container[97591:712003] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:19:49.397 plugin-container[97591:712003] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:19:49.402 plugin-container[97591:712003] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:19:49.402 plugin-container[97591:712003] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:19:49.403 plugin-container[97591:712014] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:19:49.403 plugin-container[97591:712014] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228793113	Marionette	INFO	Stopped listening on port 65517
+JavaScript warning: https://js.adsrvr.org/up_loader.1.1.0.js, line 1094: Script terminated by timeout at:
+addIframe@https://js.adsrvr.org/up_loader.1.1.0.js:1094:13
+
+1729228820739	geckodriver	INFO	Listening on 127.0.0.1:49289
+1729228821748	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofilekiKRsI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729228822118	Marionette	INFO	Marionette enabled
+1729228822482	Marionette	INFO	Listening on port 49300
+2024-10-17 23:20:22.501 plugin-container[97724:713147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:20:22.502 plugin-container[97724:713147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:20:22.506 plugin-container[97724:713147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:20:22.506 plugin-container[97724:713147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:20:22.506 plugin-container[97724:713158] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:20:22.506 plugin-container[97724:713158] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228822694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:20:23.960 plugin-container[97731:713322] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:20:23.960 plugin-container[97731:713322] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:20:23.965 plugin-container[97731:713322] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:20:23.965 plugin-container[97731:713322] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:20:23.965 plugin-container[97731:713323] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:20:23.965 plugin-container[97731:713323] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729228824956	Marionette	INFO	Stopped listening on port 49300
+1729229053353	geckodriver	INFO	Listening on 127.0.0.1:49575
+1729229054361	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofile41K4ui"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729229054746	Marionette	INFO	Marionette enabled
+1729229055104	Marionette	INFO	Listening on port 49584
+2024-10-17 23:24:15.226 plugin-container[98515:719156] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:24:15.226 plugin-container[98515:719156] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:24:15.231 plugin-container[98515:719156] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:24:15.231 plugin-container[98515:719156] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:24:15.232 plugin-container[98515:719178] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:24:15.232 plugin-container[98515:719178] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229055290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:24:16.585 plugin-container[98524:719347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:24:16.585 plugin-container[98524:719347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:24:16.588 plugin-container[98524:719347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:24:16.588 plugin-container[98524:719347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:24:16.589 plugin-container[98524:719346] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:24:16.589 plugin-container[98524:719346] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729229081625	Marionette	INFO	Stopped listening on port 49584
+1729229140989	geckodriver	INFO	Listening on 127.0.0.1:49845
+1729229141997	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofile2OHPVT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729229142366	Marionette	INFO	Marionette enabled
+1729229142708	Marionette	INFO	Listening on port 49852
+2024-10-17 23:25:42.790 plugin-container[98827:721923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:25:42.790 plugin-container[98827:721923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:25:42.795 plugin-container[98827:721923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:25:42.795 plugin-container[98827:721923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:25:42.795 plugin-container[98827:721928] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:25:42.795 plugin-container[98827:721928] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229142903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:25:44.205 plugin-container[98835:722087] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:25:44.205 plugin-container[98835:722087] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:25:44.208 plugin-container[98835:722087] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:25:44.208 plugin-container[98835:722087] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:25:44.209 plugin-container[98835:722089] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:25:44.209 plugin-container[98835:722089] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229153824	Marionette	INFO	Stopped listening on port 49852
+1729229243172	geckodriver	INFO	Listening on 127.0.0.1:50121
+1729229244184	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileIPwOU6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729229244566	Marionette	INFO	Marionette enabled
+1729229244933	Marionette	INFO	Listening on port 50130
+2024-10-17 23:27:25.083 plugin-container[99194:725056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:27:25.083 plugin-container[99194:725056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:27:25.089 plugin-container[99194:725056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:27:25.089 plugin-container[99194:725056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:27:25.089 plugin-container[99194:725071] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:27:25.089 plugin-container[99194:725071] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229245129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:27:26.412 plugin-container[99202:725223] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:27:26.413 plugin-container[99202:725223] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:27:26.418 plugin-container[99202:725223] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:27:26.418 plugin-container[99202:725223] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:27:26.420 plugin-container[99202:725237] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:27:26.420 plugin-container[99202:725237] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729229254437	Marionette	INFO	Stopped listening on port 50130
+1729229280506	geckodriver	INFO	Listening on 127.0.0.1:50328
+1729229281518	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileaEdpjN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729229281891	Marionette	INFO	Marionette enabled
+1729229282233	Marionette	INFO	Listening on port 50337
+2024-10-17 23:28:02.253 plugin-container[99337:726452] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:28:02.253 plugin-container[99337:726452] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:28:02.257 plugin-container[99337:726452] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:28:02.257 plugin-container[99337:726452] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:28:02.258 plugin-container[99337:726456] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:28:02.258 plugin-container[99337:726456] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229282432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:28:03.639 plugin-container[99348:726647] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:28:03.639 plugin-container[99348:726647] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:28:03.643 plugin-container[99348:726647] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:28:03.643 plugin-container[99348:726647] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:28:03.644 plugin-container[99348:726649] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:28:03.644 plugin-container[99348:726649] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729229307948	Marionette	INFO	Stopped listening on port 50337
+1729229385351	geckodriver	INFO	Listening on 127.0.0.1:50602
+1729229386361	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofilemkTgqi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729229386744	Marionette	INFO	Marionette enabled
+1729229387088	Marionette	INFO	Listening on port 50609
+2024-10-17 23:29:47.207 plugin-container[99713:729804] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:29:47.207 plugin-container[99713:729804] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:29:47.212 plugin-container[99713:729804] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:29:47.212 plugin-container[99713:729804] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:29:47.213 plugin-container[99713:729800] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:29:47.213 plugin-container[99713:729800] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229387287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:29:48.579 plugin-container[99718:729949] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:29:48.580 plugin-container[99718:729949] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:29:48.583 plugin-container[99718:729949] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:29:48.583 plugin-container[99718:729949] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:29:48.584 plugin-container[99718:729954] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:29:48.584 plugin-container[99718:729954] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729229392500	Marionette	INFO	Stopped listening on port 50609
+1729229457063	geckodriver	INFO	Listening on 127.0.0.1:50834
+1729229458070	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileOA5IOi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729229458463	Marionette	INFO	Marionette enabled
+1729229458892	Marionette	INFO	Listening on port 50841
+2024-10-17 23:30:58.915 plugin-container[99984:732113] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:30:58.915 plugin-container[99984:732113] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:30:58.920 plugin-container[99984:732113] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:30:58.920 plugin-container[99984:732113] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:30:58.921 plugin-container[99984:732120] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:30:58.921 plugin-container[99984:732120] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229459100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:31:00.305 plugin-container[99990:732292] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:31:00.306 plugin-container[99990:732292] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:31:00.310 plugin-container[99990:732292] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:31:00.310 plugin-container[99990:732292] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:31:00.311 plugin-container[99990:732294] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:31:00.311 plugin-container[99990:732294] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729229463751	Marionette	INFO	Stopped listening on port 50841
+1729229534844	geckodriver	INFO	Listening on 127.0.0.1:51058
+1729229535859	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileOvvnq2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729229536256	Marionette	INFO	Marionette enabled
+1729229536600	Marionette	INFO	Listening on port 51065
+2024-10-17 23:32:16.655 plugin-container[693:734670] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:32:16.656 plugin-container[693:734670] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:32:16.661 plugin-container[693:734670] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:32:16.661 plugin-container[693:734670] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:32:16.661 plugin-container[693:734688] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:32:16.661 plugin-container[693:734688] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229536821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:32:18.048 plugin-container[700:734857] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:32:18.048 plugin-container[700:734857] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:32:18.052 plugin-container[700:734857] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:32:18.052 plugin-container[700:734857] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:32:18.053 plugin-container[700:734862] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:32:18.053 plugin-container[700:734862] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+x@https://sc-static.net/scevent.min.js:2:3264
+Z/c.send@https://sc-static.net/scevent.min.js:2:5048
+Lt/</c/<@https://sc-static.net/scevent.min.js:2:6916
+m@https://sc-static.net/scevent.min.js:2:2806
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729229541725	Marionette	INFO	Stopped listening on port 51065
+1729229727783	geckodriver	INFO	Listening on 127.0.0.1:51404
+1729229728783	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... e" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/mr/7w0dw94n2x9dthbm4g4gnq000000gn/T/rust_mozprofileNkFffd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1729229729260	Marionette	INFO	Marionette enabled
+1729229729640	Marionette	INFO	Listening on port 51413
+2024-10-17 23:35:29.771 plugin-container[1427:740238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:35:29.771 plugin-container[1427:740238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:35:29.776 plugin-container[1427:740238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:35:29.776 plugin-container[1427:740238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-17 23:35:29.777 plugin-container[1427:740253] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-17 23:35:29.777 plugin-container[1427:740253] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1729229729839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+2024-10-18 05:35:31.245 plugin-container[1436:740428] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:35:31.245 plugin-container[1436:740428] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:35:31.255 plugin-container[1436:740428] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:35:31.255 plugin-container[1436:740428] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-10-18 05:35:31.256 plugin-container[1436:740433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-10-18 05:35:31.256 plugin-container[1436:740433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6893
+
+1729229741297	Marionette	INFO	Stopped listening on port 51413
